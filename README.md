@@ -4,4 +4,4 @@ Wind turbine failure analysis project aims to analyze 2021 turbine data to ident
 
 
 ## Dataset used
-- <a href="https://github.com/Sudheshna133/Data-Analysis-Dashboard/blob/main/Wind_turbine.csv">Dataser</a
+- <a href="https://github.com/Sudheshna133/Data-Analysis-Dashboard/blob/main/Wind_turbine.csv">Dataset</a>
