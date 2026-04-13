@@ -34,11 +34,11 @@ Wind turbine failure analysis project aims to analyze 2021 turbine data to ident
 ![Windturbine_Dashboard 1](https://github.com/user-attachments/assets/df72a1ed-ad42-478d-82bc-aea55064f853)
 
 ## Project Insights 
--Wind speed has a strong impact on turbine power generation (Mean ≈ 17.56).
--High temperature levels indicate a potential risk of turbine failure (Bearing Temp Mean ≈ 84.15).
--Sensor anomalies act as early warning signals (Rotor Speed Std Dev ≈ 100.34).
--The dataset contains missing values and outliers detected using Z-score (>3).
--High variability in data reflects unstable conditions (Wind Speed Variance ≈ 126.81).
+- Wind speed has a strong impact on turbine power generation (Mean ≈ 17.56).
+- High temperature levels indicate a potential risk of turbine failure (Bearing Temp Mean ≈ 84.15).
+- Sensor anomalies act as early warning signals (Rotor Speed Std Dev ≈ 100.34).
+- The dataset contains missing values and outliers detected using Z-score (>3).
+- High variability in data reflects unstable conditions (Wind Speed Variance ≈ 126.81).
 
 ## Conclusion
 
