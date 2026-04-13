@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a wind turbine failure analysis project using SQL and Excel, performing data cleaning, preprocessing, and statistical analysis. The project focused on identifying failure patterns, detecting anomalies, and generating insights for predictive maintenance and improved efficiency.
+# Wind-Turbine-Failure-Data-Analysis(Interactive Dashboard creation using MS Excel)
+## Project Objective : 
+Wind turbine failure analysis project aims to analyze 2021 turbine data to identify failure patterns, detect anomalies, and generate insights for predictive maintenance, improving efficiency and reducing downtime.
