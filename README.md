@@ -29,3 +29,9 @@ Wind turbine failure analysis project aims to analyze 2021 turbine data to ident
 -Generated insights on failure patterns, sensor anomalies, and performance trends.
 
 ## Dashboard
+![Windturbine_Dashboard 1](https://github.com/user-attachments/assets/99c333f2-830b-43d0-9988-1ac42ca6a113)
+![Windturbine_Dashboard 2](https://github.com/user-attachments/assets/cead186e-afb3-4ef6-8212-e9721fce4d64)
+![Windturbine_Dashboard 1](https://github.com/user-attachments/assets/df72a1ed-ad42-478d-82bc-aea55064f853)
+
+
+
